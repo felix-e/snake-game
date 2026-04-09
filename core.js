@@ -7,6 +7,7 @@
     let cellLength = document.getElementById("cell-length");
     let setButton = document.getElementById("set-game-settings");
 
+    
     setSettings();
 
     setButton.addEventListener("click", function () {
